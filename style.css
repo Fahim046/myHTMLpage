@@ -1,0 +1,154 @@
+.container 
+       {	
+		      background-color: #ffbf00;
+			  width: 1024px;
+			  border-style: solid;
+			  border-color: Black;
+			  border-width: .2mm;
+			  margin : 20;
+			  font-family: sans-serif;
+			  margin : auto;
+			  height: 810px;
+        }  
+				
+		.nav{
+			
+			width: 1024px;
+			height:55px;
+			background-color: red;
+			margin: 0px auto;
+			
+			
+			
+		}
+		
+		.nav h1
+		{
+			float: left;
+			font-size: 2em;
+            margin:	0px;
+            			
+		}
+		
+		.nav ul {
+			
+			float:left;
+			margin left:0px;
+			margin :0px;
+			
+			
+		}
+		
+		.nav ul li 
+		{
+			
+			 display: inline-block;
+			 list-style-type:none;
+			 border-right:2px solid #bbb;  
+			 height:55px;
+			 float:left;
+			 background-color:yellow;
+			 			
+		}
+		
+		
+		.nav ul li a {
+			 
+			
+			text-decoration:none;
+			padding:10px;
+			padding-top:10px;
+			font-size: 1.2em;	      		
+			
+		}
+		.nav ul li:hover{
+			
+			
+			background-color:green;
+			 
+		}
+		
+		.Right{
+			float: left;
+			width:75%;
+			margin:5px;
+			height: 700px;
+					
+		}
+		
+		.mainheader
+		{
+			
+			width:150px;
+			height:50px;
+			background-color:crimson;
+			text-align:center;
+			margin :50px;
+			padding: 10px;
+			font-size:14px;
+			border: solid black 1px;
+						
+		}	
+		
+		
+		.paragrap{
+			
+			background-color:gray;
+			border:solid .5px;
+			margin: 15 15 10 10;
+			text-align:left;
+			width:740px;
+			height:70px;
+			
+			
+		}
+		
+		.article1{
+			
+			border: solid 1px black;
+			float:left;
+			width:360px;
+			margin:10px;
+			background-color:green;
+			
+		}
+		.article2{
+					
+			
+			border: solid 1px black;
+			float:left;
+			width:360px;
+			margin:10px;
+			background-color:red;
+					
+		}
+		
+		.aside{
+			
+			float:right;
+			border: solid 1px black;
+			width:23.5%;
+			height:90%;
+		    background-color:purple;	
+	
+		
+			
+		}
+		.footer{
+			
+			background-color:red;
+			height:25px;
+			text-align:center;
+			margin-bottom : 0px;
+			padding:5px;
+			
+			
+		}
+			
+			
+			
+			
+			
+			
+			
+		
